@@ -1,0 +1,47 @@
+h1 {
+    color: blueviolet;
+}
+
+#caja {
+    display: flex;
+    justify-content: space-between;
+    
+}
+p.especial{color: mediumaquamarine;} 
+p.texto{color: slateblue;
+justify-content: center;}
+ul{color:slateblue;}
+div p{color: beige;}
+div h2,div h3{color: fuchsia;}
+*{font-size: larger;}
+div h1{color: olivedrab;}
+/*.color{
+    color:#ff0000;
+}*/
+/*.color{
+    color:rgb(0,0,255);*/
+.color{
+     border: 5px slateblue outset; 
+ border-style: solid;
+ border-color: aqua;
+ border-radius: 5px;
+ border-width: 5px;    
+}
+#fondo{
+    background-color:darkblue;
+    /* opacity: 0.3; */
+    
+   background: #00f url(camion-transporte-dibujado-mano_23-2149166246.avif)repeat-y center bottom/100px 100px;
+   
+}
+/*
+dotted
+dashed
+solid
+goove
+ridge
+inset
+outsed
+none 
+hidden
+*/
